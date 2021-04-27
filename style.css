@@ -1,12 +1,8 @@
-body {
-  background:#4c95ff ;
+#first{
+  font-family: "Times New Roman";
+  color: red;
 }
-#first {
-  font-family: Tahoma, Verdana, sans-serif ;
-   color: red ; 
+.second{
+  font-family: "Arial";
+  color: orange;
 }
-
-#second {
-  font-family:"Lucida Console","Courier New", monospace ;
-  color: orange ; 
-} 
